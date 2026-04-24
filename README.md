@@ -13,8 +13,8 @@
 
 | Idioma / Language | PDF | DOCX |
 |---|---|---|
-| 🇦🇷 Español | [El_precedente.pdf](./El_precedente.pdf) | [El_precedente.docx](./El_precedente.docx) |
-| 🇺🇸 English | [The_Precedent.pdf](./The_Precedent.pdf) | [The_Precedent.docx](./The_Precedent.docx) |
+| 🇦🇷 Español | [El_precedente.pdf](./El_precedente.pdf) |
+| 🇺🇸 English | [The_Precedent.pdf](./The_Precedent.pdf) |
 
 ---
 
