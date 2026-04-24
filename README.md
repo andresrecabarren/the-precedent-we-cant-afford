@@ -11,7 +11,7 @@
 
 ## 📄 Versiones / Versions
 
-| Idioma / Language | PDF | DOCX |
+| Idioma / Language | PDF |
 |---|---|---|
 | 🇦🇷 Español | [El_precedente.pdf](./El_precedente.pdf) |
 | 🇺🇸 English | [The_Precedent.pdf](./The_Precedent.pdf) |
